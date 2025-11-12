@@ -1,0 +1,9 @@
+# Python requirements for Smart Robotic Dustbin
+# Install: pip install -r requirements.txt
+
+pyttsx3>=2.90
+pyserial>=3.5
+RPi.GPIO>=0.7.0
+adafruit-circuitpython-neopixel>=6.0.0
+pillow>=9.0.0
+numpy>=1.21.0
